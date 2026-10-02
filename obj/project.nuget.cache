@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WdteIRTQxG4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alessandro\\Documents\\EmailService\\EmailService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alessandro\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.8\\microsoft.aspnetcore.openapi.10.0.8.nupkg.sha512",
+    "C:\\Users\\Alessandro\\.nuget\\packages\\microsoft.openapi\\2.7.5\\microsoft.openapi.2.7.5.nupkg.sha512"
+  ],
+  "logs": []
+}
