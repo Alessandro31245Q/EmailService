@@ -349,29 +349,12 @@ Esto permite que una misma API pueda ser utilizada posteriormente por:
 * Aplicaciones móviles.
 * Procesos automatizados.
 
-## 🛠️ Próximas mejoras
-
-Algunas funcionalidades que pueden incorporarse posteriormente:
-
-* Autenticación del microservicio.
-* Plantillas de correo.
-* Archivos adjuntos.
-* CC y BCC.
-* Registro de correos enviados.
-* Manejo centralizado de errores.
-* Logs.
-* Reintentos automáticos.
-* Cola de mensajes.
-* Rate limiting.
-* Health checks.
-* Integración con Docker Compose.
-* Despliegue automatizado mediante CI/CD.
-
 ## 📄 Licencia
 
-Este proyecto es de uso personal y educativo.
+Este proyecto forma parte de una aplicación desarrollada para un **proyecto de formación del SENA**.
 
----
+El microservicio está destinado a ser utilizado como componente de dicha aplicación, con fines **educativos y de formación**.
+
 
 **EmailService**
 Microservicio de envío de correos desarrollado con ASP.NET Core y Brevo.
